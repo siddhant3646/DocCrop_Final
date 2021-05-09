@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AceWithPace</string>
+    <string name="doc_crop">Doc-Crop</string>
+    <string name="first_slide_title">Simple to identify</string>
+    <string name="second_slide_title">Paddy Tracker</string>
+    <string name="third_slide_title">Fertilizer Calculator</string>
+    <string name="first_slide_desc">Detection of the presence of diseases/pests through visual data can be found. Real time detailed report of the problem and its remedies are also provided.</string>
+    <string name="second_slide_desc">AI enabled bot to solve your problems related to paddy diseases, pest attack, and  nutrition deficiency 24*7.</string>
+    <string name="third_slide_desc">Calculate proper amount of fertilizers and pesticides for your farm and buy it.</string>
+    <string name="title_activity_main5">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Shop</string>
+    <string name="title_notifications">Fertilizer</string>
+    <string name="title_activity_last_page">LastPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "897936700101",
+    "project_id": "acewithpace-65c5c",
+    "storage_bucket": "acewithpace-65c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897936700101:android:5cc40e011dc4402f66b6ac",
+        "android_client_info": {
+          "package_name": "com.example.acewithpace2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897936700101-0cbjho4qtbl6i2emtehvkp02dctfl32h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acewithpace2",
+            "certificate_hash": "469fc4d0a64ffa9bd6b7f6de7a9b362b33876164"
+          }
+        },
+        {
+          "client_id": "897936700101-3rotubtg2qg6f3ul9vakol9tfvbnhpq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwLB_yFR4jBnNSj6FXldpSZWbdjIorms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897936700101-3rotubtg2qg6f3ul9vakol9tfvbnhpq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
